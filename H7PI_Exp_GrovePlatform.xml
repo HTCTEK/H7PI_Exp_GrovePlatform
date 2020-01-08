@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:\dev\H7PI_EXP_Platform\H7PI_EXP_Platform\H7PI_EXP_Platform.sch</source>
+    <date>2020/1/8 21:49:59</date>
+    <tool>Eeschema (5.1.4)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>H7PI_Exp_GrovePlatform</title>
+        <company>PINO D&amp;M</company>
+        <rev>0.1</rev>
+        <date>2020-01-08</date>
+        <source>H7PI_EXP_Platform.sch</source>
+        <comment number="1" value="fuhua.chen"/>
+        <comment number="2" value="fuhua.chen"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>H7PI_Exp</value>
+      <footprint>Module_H7PI_Exp_65x30mm</footprint>
+      <datasheet>https://item.taobao.com/item.htm?ft=t&amp;id=606908438435</datasheet>
+      <fields>
+        <field name="Manufacturer">HTCTEK</field>
+        <field name="PartNumber">H7PI_EXP</field>
+        <field name="Sku">None</field>
+        <field name="Supplier">https://item.taobao.com/item.htm?ft=t&amp;id=606908438435</field>
+      </fields>
+      <libsource lib="module" part="H7PI_Exp" description="H7PI_Exp,扩展板"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE5CA0E</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E431D02</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E433183</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E43395D</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E43475A</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E43522C</tstamp>
+    </comp>
+    <comp ref="J12">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E435B9E</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E436739</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E436E8A</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4376FD</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E438414</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E438D5D</tstamp>
+    </comp>
+    <comp ref="J13">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E439AE6</tstamp>
+    </comp>
+    <comp ref="J14">
+      <value>A2001WR-S-4P</value>
+      <footprint>Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</footprint>
+      <datasheet>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Sku">C225235</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+      </fields>
+      <libsource lib="connector" part="A2001WR-S-4P" description="CJT,PH,2.0mm,4pins,卧贴"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E43A5DB</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Header_2x3</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Horizontal</footprint>
+      <libsource lib="connector" part="Header_2x3" description="Pin Header 2x3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4AD755</tstamp>
+    </comp>
+    <comp ref="J15">
+      <value>Header_2x3</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Horizontal</footprint>
+      <libsource lib="connector" part="Header_2x3" description="Pin Header 2x3"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4F1DAE</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="connector" part="A2001WR-S-4P">
+      <description>CJT,PH,2.0mm,4pins,卧贴</description>
+      <docs>https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C225235_A617E5D3BBA0AC0C0D463230450389A6.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">A2001WR-S-4P</field>
+        <field name="Footprint">Connector_CJT_A2001WR-S-4P_1x04-1MP_P2.00mm_Horizontal</field>
+        <field name="Manufacturer">CJT</field>
+        <field name="PartNumber">A2001WR-S-4P</field>
+        <field name="Supplier">https://item.szlcsc.com/225518.html</field>
+        <field name="Sku">C225235</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="MP" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="connector" part="Header_2x3">
+      <description>Pin Header 2x3</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Header_2x3</field>
+        <field name="Footprint">PinHeader_2x03_P2.54mm_Vertical</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+        <pin num="3" name="~" type="passive"/>
+        <pin num="4" name="~" type="passive"/>
+        <pin num="5" name="~" type="passive"/>
+        <pin num="6" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="module" part="H7PI_Exp">
+      <description>H7PI_Exp,扩展板</description>
+      <docs>https://item.taobao.com/item.htm?ft=t&amp;id=606908438435</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">H7PI_Exp</field>
+        <field name="Footprint">Module_H7PI_Exp_65x30mm</field>
+        <field name="Manufacturer">HTCTEK</field>
+        <field name="PartNumber">H7PI_EXP</field>
+        <field name="Supplier">https://item.taobao.com/item.htm?ft=t&amp;id=606908438435</field>
+        <field name="Sku">None</field>
+      </fields>
+      <pins>
+        <pin num="1" name="3V3" type="passive"/>
+        <pin num="2" name="VBUS" type="passive"/>
+        <pin num="3" name="IO1/PD10" type="passive"/>
+        <pin num="4" name="IO16/PE1" type="passive"/>
+        <pin num="5" name="IO2/PD13" type="passive"/>
+        <pin num="6" name="IO15/PE0" type="passive"/>
+        <pin num="7" name="IO3/PA8" type="passive"/>
+        <pin num="8" name="IO14/PB8" type="passive"/>
+        <pin num="9" name="IO4/PA13" type="passive"/>
+        <pin num="10" name="IO13/PB5" type="passive"/>
+        <pin num="11" name="IO5/PA14" type="passive"/>
+        <pin num="12" name="IO12/PD7" type="passive"/>
+        <pin num="13" name="IO6/PA15" type="passive"/>
+        <pin num="14" name="IO11/PD6" type="passive"/>
+        <pin num="15" name="IO7/PC11" type="passive"/>
+        <pin num="16" name="IO10/PD3" type="passive"/>
+        <pin num="17" name="IO8/PC15" type="passive"/>
+        <pin num="18" name="IO9/PD2" type="passive"/>
+        <pin num="19" name="GND" type="passive"/>
+        <pin num="20" name="GND" type="passive"/>
+        <pin num="21" name="3V3" type="passive"/>
+        <pin num="22" name="VBUS" type="passive"/>
+        <pin num="23" name="SDA1/PB11" type="passive"/>
+        <pin num="24" name="VBUS" type="passive"/>
+        <pin num="25" name="SCL1/PB10" type="passive"/>
+        <pin num="26" name="GND" type="passive"/>
+        <pin num="27" name="GPIO7/PA3" type="passive"/>
+        <pin num="28" name="TXD/PA9" type="passive"/>
+        <pin num="29" name="GND" type="passive"/>
+        <pin num="30" name="RXD/PA10" type="passive"/>
+        <pin num="31" name="GPIO0/PE3" type="passive"/>
+        <pin num="32" name="GPIO1/PE4" type="passive"/>
+        <pin num="33" name="GPIO2/PE5" type="passive"/>
+        <pin num="34" name="GND" type="passive"/>
+        <pin num="35" name="GPIO3/PE6" type="passive"/>
+        <pin num="36" name="GPIO4/PC13" type="passive"/>
+        <pin num="37" name="3V3" type="passive"/>
+        <pin num="38" name="GPIO5/PC0" type="passive"/>
+        <pin num="39" name="MOSI/PE14" type="passive"/>
+        <pin num="40" name="GND" type="passive"/>
+        <pin num="41" name="MISO/PE13" type="passive"/>
+        <pin num="42" name="GPIO6/PA2" type="passive"/>
+        <pin num="43" name="SCK/PE12" type="passive"/>
+        <pin num="44" name="CE0/PE11" type="passive"/>
+        <pin num="45" name="GND" type="passive"/>
+        <pin num="46" name="CE1/PE15" type="passive"/>
+        <pin num="47" name="SDA0/PB7" type="passive"/>
+        <pin num="48" name="SCL0/PB8" type="passive"/>
+        <pin num="49" name="GPIO21/PA4" type="passive"/>
+        <pin num="50" name="GND" type="passive"/>
+        <pin num="51" name="GPIO22/PA5" type="passive"/>
+        <pin num="52" name="GPIO26/PC5" type="passive"/>
+        <pin num="53" name="GPIO23/PA6" type="passive"/>
+        <pin num="54" name="GND" type="passive"/>
+        <pin num="55" name="GPIO24/PA7" type="passive"/>
+        <pin num="56" name="GPIO27/PB0" type="passive"/>
+        <pin num="57" name="GPIO25/PC4" type="passive"/>
+        <pin num="58" name="GPIO28/PB1" type="passive"/>
+        <pin num="59" name="GND" type="passive"/>
+        <pin num="60" name="GPIO29/PD9" type="passive"/>
+        <pin num="USBN" name="USBN" type="passive"/>
+        <pin num="USBP" name="USBP" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="connector">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/connector.lib</uri>
+    </library>
+    <library logical="module">
+      <uri>D:/dev/kicad-lib/pinno-lib/symbol/module.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/MOSI">
+      <node ref="U1" pin="39"/>
+      <node ref="J1" pin="3"/>
+    </net>
+    <net code="2" name="/GND">
+      <node ref="J3" pin="MP"/>
+      <node ref="J2" pin="1"/>
+      <node ref="J2" pin="MP"/>
+      <node ref="J2" pin="MP"/>
+      <node ref="J3" pin="1"/>
+      <node ref="J3" pin="MP"/>
+      <node ref="J7" pin="MP"/>
+      <node ref="J4" pin="1"/>
+      <node ref="J9" pin="MP"/>
+      <node ref="J4" pin="MP"/>
+      <node ref="J4" pin="MP"/>
+      <node ref="J5" pin="1"/>
+      <node ref="J8" pin="1"/>
+      <node ref="J10" pin="1"/>
+      <node ref="J9" pin="1"/>
+      <node ref="J7" pin="MP"/>
+      <node ref="J7" pin="1"/>
+      <node ref="J8" pin="MP"/>
+      <node ref="J8" pin="MP"/>
+      <node ref="J11" pin="MP"/>
+      <node ref="J11" pin="MP"/>
+      <node ref="J11" pin="1"/>
+      <node ref="J12" pin="MP"/>
+      <node ref="J12" pin="MP"/>
+      <node ref="J12" pin="1"/>
+      <node ref="J6" pin="MP"/>
+      <node ref="J14" pin="1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="J14" pin="MP"/>
+      <node ref="J14" pin="MP"/>
+      <node ref="J13" pin="MP"/>
+      <node ref="J13" pin="MP"/>
+      <node ref="J13" pin="1"/>
+      <node ref="J5" pin="MP"/>
+      <node ref="J6" pin="MP"/>
+      <node ref="J6" pin="1"/>
+      <node ref="J10" pin="MP"/>
+      <node ref="J10" pin="MP"/>
+      <node ref="J15" pin="6"/>
+      <node ref="J15" pin="1"/>
+      <node ref="J5" pin="MP"/>
+      <node ref="U1" pin="59"/>
+      <node ref="U1" pin="54"/>
+      <node ref="U1" pin="50"/>
+      <node ref="U1" pin="45"/>
+      <node ref="J9" pin="MP"/>
+      <node ref="U1" pin="40"/>
+      <node ref="U1" pin="34"/>
+      <node ref="U1" pin="29"/>
+      <node ref="U1" pin="26"/>
+      <node ref="U1" pin="20"/>
+      <node ref="U1" pin="19"/>
+    </net>
+    <net code="3" name="/BOOT">
+      <node ref="J15" pin="4"/>
+      <node ref="U1" pin="3"/>
+    </net>
+    <net code="4" name="/D29">
+      <node ref="U1" pin="60"/>
+    </net>
+    <net code="5" name="/CE1">
+      <node ref="U1" pin="46"/>
+    </net>
+    <net code="6" name="/3V3">
+      <node ref="U1" pin="21"/>
+      <node ref="J15" pin="2"/>
+      <node ref="U1" pin="1"/>
+      <node ref="U1" pin="37"/>
+    </net>
+    <net code="7" name="/SWDCLK">
+      <node ref="U1" pin="11"/>
+      <node ref="J15" pin="5"/>
+    </net>
+    <net code="8" name="/SWDIO">
+      <node ref="J15" pin="3"/>
+      <node ref="U1" pin="9"/>
+    </net>
+    <net code="9" name="/MISO">
+      <node ref="U1" pin="41"/>
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="10" name="/SCK">
+      <node ref="U1" pin="43"/>
+      <node ref="J1" pin="4"/>
+    </net>
+    <net code="11" name="/CE0">
+      <node ref="U1" pin="44"/>
+      <node ref="J1" pin="6"/>
+    </net>
+    <net code="12" name="/VBUS">
+      <node ref="J8" pin="2"/>
+      <node ref="J9" pin="2"/>
+      <node ref="J4" pin="2"/>
+      <node ref="J6" pin="2"/>
+      <node ref="J7" pin="2"/>
+      <node ref="U1" pin="2"/>
+      <node ref="U1" pin="22"/>
+      <node ref="J13" pin="2"/>
+      <node ref="J12" pin="2"/>
+      <node ref="U1" pin="24"/>
+      <node ref="J11" pin="2"/>
+      <node ref="J1" pin="5"/>
+      <node ref="J2" pin="2"/>
+      <node ref="J10" pin="2"/>
+      <node ref="J14" pin="2"/>
+      <node ref="J5" pin="2"/>
+      <node ref="J3" pin="2"/>
+    </net>
+    <net code="13" name="/A4">
+      <node ref="J5" pin="4"/>
+      <node ref="U1" pin="57"/>
+    </net>
+    <net code="14" name="/SCL1">
+      <node ref="U1" pin="25"/>
+      <node ref="J7" pin="4"/>
+    </net>
+    <net code="15" name="/SDA1">
+      <node ref="U1" pin="23"/>
+      <node ref="J7" pin="3"/>
+    </net>
+    <net code="16" name="Net-(U1-Pad8)">
+      <node ref="U1" pin="8"/>
+    </net>
+    <net code="17" name="Net-(U1-Pad7)">
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="18" name="/RX1">
+      <node ref="J6" pin="4"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="19" name="/A5">
+      <node ref="U1" pin="52"/>
+      <node ref="J5" pin="3"/>
+    </net>
+    <net code="20" name="Net-(U1-Pad5)">
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="21" name="/A3">
+      <node ref="J8" pin="3"/>
+      <node ref="U1" pin="55"/>
+    </net>
+    <net code="22" name="/A2">
+      <node ref="U1" pin="53"/>
+      <node ref="J8" pin="4"/>
+    </net>
+    <net code="23" name="/D1">
+      <node ref="U1" pin="32"/>
+      <node ref="J11" pin="3"/>
+    </net>
+    <net code="24" name="/D0">
+      <node ref="U1" pin="31"/>
+      <node ref="J11" pin="4"/>
+    </net>
+    <net code="25" name="/A1">
+      <node ref="U1" pin="51"/>
+      <node ref="J4" pin="3"/>
+    </net>
+    <net code="26" name="/A0">
+      <node ref="J4" pin="4"/>
+      <node ref="U1" pin="49"/>
+    </net>
+    <net code="27" name="/SCL0">
+      <node ref="U1" pin="48"/>
+      <node ref="J3" pin="4"/>
+    </net>
+    <net code="28" name="/SDA0">
+      <node ref="J3" pin="3"/>
+      <node ref="U1" pin="47"/>
+    </net>
+    <net code="29" name="Net-(U1-Pad17)">
+      <node ref="U1" pin="17"/>
+    </net>
+    <net code="30" name="Net-(U1-Pad16)">
+      <node ref="U1" pin="16"/>
+    </net>
+    <net code="31" name="Net-(U1-Pad15)">
+      <node ref="U1" pin="15"/>
+    </net>
+    <net code="32" name="Net-(U1-Pad14)">
+      <node ref="U1" pin="14"/>
+    </net>
+    <net code="33" name="Net-(U1-Pad13)">
+      <node ref="U1" pin="13"/>
+    </net>
+    <net code="34" name="Net-(U1-Pad12)">
+      <node ref="U1" pin="12"/>
+    </net>
+    <net code="35" name="Net-(U1-Pad10)">
+      <node ref="U1" pin="10"/>
+    </net>
+    <net code="36" name="/TX1">
+      <node ref="J6" pin="3"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="37" name="Net-(U1-Pad18)">
+      <node ref="U1" pin="18"/>
+    </net>
+    <net code="38" name="/RX0">
+      <node ref="U1" pin="30"/>
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="39" name="/TX0">
+      <node ref="U1" pin="28"/>
+      <node ref="J2" pin="3"/>
+    </net>
+    <net code="40" name="/USBN">
+      <node ref="U1" pin="USBN"/>
+      <node ref="J10" pin="3"/>
+    </net>
+    <net code="41" name="/USBP">
+      <node ref="J10" pin="4"/>
+      <node ref="U1" pin="USBP"/>
+    </net>
+    <net code="42" name="/D7">
+      <node ref="U1" pin="27"/>
+      <node ref="J14" pin="3"/>
+    </net>
+    <net code="43" name="/D6">
+      <node ref="J14" pin="4"/>
+      <node ref="U1" pin="42"/>
+    </net>
+    <net code="44" name="/D5">
+      <node ref="J12" pin="3"/>
+      <node ref="U1" pin="38"/>
+    </net>
+    <net code="45" name="/D4">
+      <node ref="J12" pin="4"/>
+      <node ref="U1" pin="36"/>
+    </net>
+    <net code="46" name="/A7">
+      <node ref="U1" pin="58"/>
+      <node ref="J9" pin="3"/>
+    </net>
+    <net code="47" name="/A6">
+      <node ref="U1" pin="56"/>
+      <node ref="J9" pin="4"/>
+    </net>
+    <net code="48" name="/D3">
+      <node ref="J13" pin="3"/>
+      <node ref="U1" pin="35"/>
+    </net>
+    <net code="49" name="/D2">
+      <node ref="J13" pin="4"/>
+      <node ref="U1" pin="33"/>
+    </net>
+  </nets>
+</export>
